@@ -84,7 +84,6 @@ class ArticlePage extends StatelessWidget {
                     Text(
                       article.description,
                       style: TextStyle(
-                        fontWeight: FontWeight.bold,
                         fontSize: 30.0,
                       ),
                     )
